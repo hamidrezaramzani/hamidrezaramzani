@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://virgool.io/@hamidrezaramzani](https://virgool.io/@hamidrezaramzani)
 
-- 💬 Ask me about **reactjs , laravel**
+- 💬 Ask me about **reactjs**
 
 - 📫 How to reach me **iamhamidreza.ir**
 
