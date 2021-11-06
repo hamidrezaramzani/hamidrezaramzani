@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamidreza Ramzani</h1>
 <h3 align="center">A web developer from Iran</h3>
 
-- 🔭 I’m currently working on [Clothes Shop](https://github.com/hamidrezaramzani/clothes-shop)
-
-- 👨‍💻 All of my projects are available at [iamhamidreza.ir](iamhamidreza.ir)
+- 🔭 I’m currently working on [Resume Builder](https://github.com/hamidrezaramzani/resume-builder)
 
 - 📝 I regularly write articles on [https://virgool.io/@hamidrezaramzani](https://virgool.io/@hamidrezaramzani)
 
