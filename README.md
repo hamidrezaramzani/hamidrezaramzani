@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamidreza Ramzani</h1>
 <h3 align="center">ReactJS developer</h3>
 
-- 🔭 I’m currently working on [resume-builder](https://github.com/hamidrezaramzani/resume-builder)
+- 🔭 I’m currently working on Myself
 
 - 🌱 I’m currently learning **Nodejs , Reactjs**
 
