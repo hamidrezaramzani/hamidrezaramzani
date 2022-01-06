@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamidreza Ramzani</h1>
 <h3 align="center">A React developer from Iran</h3>
 
-- 🔭 I’m currently working on [games space station](https://github.com/hamidrezaramzani/game-space-station)
+- 🔭 I’m currently working on myself
 
 - 🌱 I’m currently learning **Framer Motion - TypeScript - GraphQL**
 
