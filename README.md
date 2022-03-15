@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamidreza Ramzani</h1>
 <h3 align="center">a junior react developer from iran</h3>
 
-- 🔭 I’m currently working on [Social Media](https://github.com/hamidrezaramzani/social-media)
+- 🔭 I’m currently working on [Lepe](https://github.com/hamidrezaramzani/lepe-live-client)
 
 - 🌱 I’m currently learning **TypeScript and OOP**
 
