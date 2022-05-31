@@ -20,8 +20,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hamidrezaramzani&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidrezaramzani&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=hamidrezaramzani&icon=0&color=0)](https://visitcount.itsvg.in)
