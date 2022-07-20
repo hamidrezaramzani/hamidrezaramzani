@@ -1,7 +1,7 @@
 # 💫About Me :
 
 
- I’m currently working on the Restaxplore project
+ I’m currently working on the Porosys
 
  I’m currently learning TypeScript and Docker
 
