@@ -3,7 +3,7 @@
 
  I’m currently working on the Porosys
 
- I’m currently learning TypeScript and Docker
+ I’m currently learning TypeScript
 
  Ask me about JavaScript and ReactJS
 
