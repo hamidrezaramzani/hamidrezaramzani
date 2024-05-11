@@ -10,7 +10,7 @@
  How to reach me hamidrezaramzani80@gmail.com
 
 ```sh
-$ npx alireza@latest
+$ npx iamhamidreza@latest
 ```
 
 ## 🌐Socials
