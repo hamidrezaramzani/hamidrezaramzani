@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Hamidreza Ramzani<br>💻 22-year-old Frontend Developer who loves Backend, Servers, and UI/UX design<br>🔭 I’m currently working on building web apps with React and improving my Node.js skills<br>👯 I’m looking to collaborate on full-stack projects and UI/UX design<br>🤝 I’m looking for help with backend scaling and server optimizations<br>🌱 I’m currently learning more about cloud infrastructure, API development, and UI/UX design with Figma<br>💬 Ask me about JavaScript, React, Node.js, or Figma<br>⚡ Fun fact: I enjoy combining frontend design and backend development to create seamless user experiences!
+👋 Hi, I'm Hamidreza Ramzani<br>💻 23-year-old Frontend Developer who loves Backend, Servers, and UI/UX design<br>🔭 I’m currently working on building web apps with React and improving my Node.js skills<br>👯 I’m looking to collaborate on full-stack projects and UI/UX design<br>🤝 I’m looking for help with backend scaling and server optimizations<br>🌱 I’m currently learning more about cloud infrastructure, API development, and UI/UX design with Figma<br>💬 Ask me about JavaScript, React, Node.js, or Figma<br>⚡ Fun fact: I enjoy combining frontend design and backend development to create seamless user experiences!
 
 
 ## 🌐 Socials:
